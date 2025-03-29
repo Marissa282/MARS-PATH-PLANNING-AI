@@ -39,7 +39,7 @@ We used:
 
 ---
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 - **Languages**: Python, NumPy, Matplotlib
 - **Libraries**: simpleai, CSP modules, custom heuristics
